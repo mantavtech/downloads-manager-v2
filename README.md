@@ -1,4 +1,4 @@
-#Downloads manager v2
+# Downloads-manager-v2
 This is a program that will take all the files of your downloads folder and put them in a folder named organised downloads on the desktop with sub-folders starting with the year mentioned before the folders .
 
 File Management Automation System
